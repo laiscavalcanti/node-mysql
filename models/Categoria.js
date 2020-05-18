@@ -8,4 +8,4 @@ const Categoria = db.sequelize.define("categorias", {
 
 module.exports = Categoria;
 
-//Category.sync({ forse: true });
+//Categoria.sync({ force: true });
